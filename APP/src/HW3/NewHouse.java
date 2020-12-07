@@ -1,3 +1,5 @@
+package HW3;
+
 public class NewHouse extends Builder{
     @Override
     public void buildRoof() {

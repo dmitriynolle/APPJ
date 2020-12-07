@@ -1,3 +1,5 @@
+package HW3;
+
 public abstract class Builder {
     private String material = "Test";
     protected abstract void buildRoof();

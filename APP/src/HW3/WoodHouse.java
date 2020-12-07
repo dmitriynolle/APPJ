@@ -1,3 +1,5 @@
+package HW3;
+
 public class WoodHouse extends Builder {
     String material = "wood";
 
